@@ -33,7 +33,7 @@
 </head>
 
 <body>
-	<h2>会員情報削除画面</h2>
+	<h2>会員情報削除画面<hr></h2>
 	
 	<%
 		String message = (String) request.getAttribute("message");
